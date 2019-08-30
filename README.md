@@ -19,3 +19,5 @@ arm-linux-gcc play.c -o play -lpthread
 mkfifo pipe  
 mkfifo pipe2  
 如果显示段错误或者是无法显示字体 需要加载字体库simsun.ttc放入到 执行文件   的文件目录！！！  
+email:1299641946@qq.com  
+Thanks github platform  
