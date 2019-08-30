@@ -1,0 +1,1 @@
+arm-linux-gcc main.c lcd_app.c -o main  -I./include  -I./include/freetype2/ -L./lib -lfreetype 
